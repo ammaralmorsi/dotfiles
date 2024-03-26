@@ -99,7 +99,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-source /usr/share/fzf/key-bindings.zsh
 export EDITOR=nvim
 export PATH=/home/ammar/out/neovim/bin:$PATH
 export PATH=/home/ammar/.local/scripts/:$PATH
