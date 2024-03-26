@@ -100,8 +100,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export EDITOR=nvim
-export PATH=/home/ammar/out/neovim/bin:$PATH
-export PATH=/home/ammar/.local/scripts/:$PATH
+export PATH=$HOME/out/neovim/bin:$PATH
+export PATH=$HOME/.local/bin/:$PATH
 alias vim="nvim"
 alias vi="nvim"
 alias showkeys="screenkey -s large -p fixed -g 450x100+1400+450"
